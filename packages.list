@@ -1,4 +1,5 @@
 {
+	[ 'hac3dutilz'    ] = 'https://raw.githubusercontent.com/hac3d/opus-apps/develop-1.8/hac3dutilz/.package',
 	[ 'builder'    ] = 'https://raw.githubusercontent.com/kepler155c/opus-apps/develop-1.8/builder/.package',
 --	[ 'busted'     ] = 'https://raw.githubusercontent.com/kepler155c/opus-apps/develop-1.8/busted/.package',
 	[ 'cash'       ] = 'https://raw.githubusercontent.com/kepler155c/opus-apps/develop-1.8/cash/.package',
