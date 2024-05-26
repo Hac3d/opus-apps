@@ -1,0 +1,10 @@
+{
+	required = {
+		'core',
+		'turtle',
+	},
+	title = 'Hac3dUtilz',
+	repository = 'hac3d/opus-apps/{{OPUS_BRANCH}}/hac3dutilz',
+	description = [[Utilities to use, duh. ]],
+	license = 'MIT',
+}
